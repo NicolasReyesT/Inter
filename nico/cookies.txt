@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.ferrostaal-graphics.com	TRUE	/	FALSE	1999999999	PHPSESSID	e80eb3c21f85c797ab3ef627dfc76eb2
-
